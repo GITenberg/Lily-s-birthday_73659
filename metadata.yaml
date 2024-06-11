@@ -1,0 +1,40 @@
+_repo: Lily-s-birthday_73659
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2024-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73659'
+language: en
+pgterms:marc905: 20240513104302leslie
+pgterms:marc906: '1867'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bGraves & Young, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Aunt Hattie's library
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Birthdays -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'City and town life -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Lily's birthday
+url: http://www.gutenberg.org/ebooks/73659
